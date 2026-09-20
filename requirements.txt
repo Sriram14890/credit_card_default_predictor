@@ -4,3 +4,4 @@ numpy
 scikit-learn == 1.5.1
 xgboost==3.4.1
 joblib
+python-3.12
